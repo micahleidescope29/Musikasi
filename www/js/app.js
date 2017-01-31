@@ -35,7 +35,7 @@ angular.module('starter', ['ionic'])
     .state('tabs.home', {
       url: '/home',
       views: {
-        'list-tab' : {
+        'home-tab' : {
           templateUrl: 'templates/home.html'
         }
       } 
@@ -63,7 +63,7 @@ angular.module('starter', ['ionic'])
 
 
 
-    $urlRouterProvider.otherwise('/tab/list');
+    $urlRouterProvider.otherwise('/tab/home');
 })
 
 
@@ -73,6 +73,8 @@ angular.module('starter', ['ionic'])
   $http.get('js/data.json').success(function(data){
     $scope.artists = data.artists;
     $scope.whichartist=$state.params.aId;
+    $scope.data = { showDelete: false, showReorder: false  };
+
 
     $scope.onItemDelete = function(item){
       $scope.artists.splice($scope.artists.indexOf(item), 1);
