@@ -168,9 +168,9 @@
   </ion-tabs>
 
 
-  <ion-content>
+<!--   <ion-content> -->
 <!-- Form codes -->
-    <div class="list list-inset">
+<!--     <div class="list list-inset">
       <label class="item item-input">
         <span class="input-label">First Name</span>
         <input type="text" placeholder="Your First Name"></input>
@@ -184,7 +184,7 @@
 
       <label class="item item-input">
         <textarea placeholder="Comments"></textarea>
-      </label>
+      </label> -->
 
 <!-- Checkbox code -->
 <!--       <div class="item item-divider">I want to be a...</div>
@@ -237,7 +237,7 @@
       </label>
  -->
 
-      <div class="item item-toggle">
+<!--       <div class="item item-toggle">
         <span class="input-label">Awesomeness</span>
         <label class="toggle">
           <input type="checkbox"></input>
@@ -260,7 +260,7 @@
             <option>Llamas</option>
         </select>
 
-      </label>
+      </label> -->
     <!-- search bar -->
     <!--   <div class="item item-input-inset">
           <label class="item-input-wrapper">
@@ -270,13 +270,34 @@
 
       </div> -->
 
-
-    </div>
-
-
-      </ion-content>
+<!-- 
+      </div>
 
 
+      </ion-content -->
+
+<!-- Search bar Code -->
+      <ion-header-bar class="bar-dark">
+        <h2 class="title"> Artist List</h2>
+      </ion-header-bar>
+        <div class="bar bar-subheader item-input-inset bar-light">
+          <label class="item-input-wrapper">
+            <i class="icon ion-search placeholder-icon"></i>
+            <input type="search" placeholder="Search">
+            
+          </label>        
+        </div>
+      <ion-content class="has-subheader">
+          <ion-list>
+            <ion-item class="item-thumbnail-left item-text-wrap">
+              <img src="http://placehold.it/100x100" alt="Photo">
+              <h2>Name</h2>
+              <h3>Reknown</h3>
+              <p>The quick brown fox jumps over the lazy dog near the bank of the river. The quick brown fox jumps over the lazy dog near the bank of the river.              </p>
+            </ion-item>
+          </ion-list>
+        </ion-content>
+      
     </ion-pane>
   </body>
 </html>
