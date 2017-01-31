@@ -34,15 +34,15 @@
   </head>
   <body ng-app="starter">
 
-    <ion-pane>
+<!--     <ion-pane>
     <!-- header -->
-      <ion-header-bar class="bar-positive">
+<!--       <ion-header-bar class="bar-positive">
           <button class="icon ion-navicon button button-clear"></button>
         <h1 class="title">Ionic Blank Starter</h1>
          <button class="icon ion-gear-a button button-clear"></button>
 
-      </ion-header-bar>
-
+      </ion-header-bar> -->
+ -->
 
 
 
@@ -161,11 +161,11 @@
     
   </div> -->
 
-  <ion-tabs>
+ <!--  <ion-tabs>
       <ion-tab badge="1" badge-style="badge-assertive" icon="ion-home" title="Home" ></ion-tab>
       <ion-tab icon="ion-person" title="About"></ion-tab>
       <ion-tab icon="ion-calendar" title="Calendar"></ion-tab>
-  </ion-tabs>
+  </ion-tabs> -->
 
 
 <!--   <ion-content> -->
@@ -277,8 +277,10 @@
       </ion-content -->
 
 <!-- Search bar Code -->
+    <ion-pane ng-controller="ListController">
       <ion-header-bar class="bar-dark">
         <h2 class="title"> Artist List</h2>
+        <button class="button button-icon ion-navicon" ng-click="data.showReorder = !data.showReorder"></button>
       </ion-header-bar>
         <div class="bar bar-subheader item-input-inset bar-light">
           <label class="item-input-wrapper">
@@ -287,13 +289,16 @@
             
           </label>        
         </div>
-      <ion-content ng-controller="ListController" class="has-subheader">
-          <ion-list>
+      <ion-content class="has-subheader">
+          <ion-list show-reorder="data.showReorder">
             <ion-item ng-repeat='item in artists | filter: query' class="item-thumbnail-left item-text-wrap">
               <img ng-src="img/{{item.shortname}}_tn.jpg" alt="{{ item.name }}Photo">
               <h2>{{item.name}}</h2>
               <h3>{{item.reknown}}}</h3>
               <p>{{item.bio | limitTo:100}}{{item.bio.length > 150 ? '&hellip;' : ''}}</p>
+
+              <ion-reorder-button class="ion-navicon" on-reorder="moveItem(item, $fromIndex, $toIndex)">
+              </ion-reorder-button>
             </ion-item>
           </ion-list>
         </ion-content>
