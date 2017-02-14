@@ -1,0 +1,65 @@
+<ion-view view-title="Musics Statistics">
+
+<ion-content>
+ 	<ion-toggle style="background:#EEE8D6;border: 2px solid darkcyan;" ng-model="toggleDownload.show" 
+ 	toggle-class="toggle-calm"> <h3><span ng-if="toggleDownload.show" >{{downloadSelectedYear}}</span> Downloads</h3> </ion-toggle>
+    <div class="music-downloads" ng-if="toggleDownload.show">
+		<canvas style="padding:10px"id="bar" class="chart chart-bar" chart-colors="colors" chart-series="musicTitle" chart-data="downloadData"
+		chart-labels="musicTitle" chart-click="onClick">
+		</canvas>
+
+		<md-content style="display:inline-table">
+			<h3 style="width: 260px;">TOP 3</h3>
+		 <md-list ng-repeat="item in topDownloadList | orderBy:'-downloads'">
+		    <md-list-item  ng-if="$index < 3"><h5>{{$index+1}} : {{item.name}}</h3></md-list-item>
+		  </md-list>	
+		</md-content>
+			<div style="float:right;">
+		<select  ng-model="downloadSelectedYear" ng-change="downloadChangeYear(downloadSelectedYear)" 
+        	data-ng-options="year as year for year in totalYears">
+  			<option value="downloadSelectedYear">Select Year</option>
+		</select>
+		</div>
+	</div>
+	<ion-toggle style="background:#EEE8D6;border: 2px solid darkcyan;" ng-model="toggleRates.show" 
+ 	toggle-class="toggle-calm"><h3 style="display:inline">Rates</h3> </ion-toggle>
+
+    <div class="music-rates" ng-if="toggleRates.show">
+      <canvas id="line" class="chart chart-line" chart-data="rateVal"
+		chart-labels="Years" chart-series="musicTitle" chart-options="options"
+		chart-dataset-override="datasetOverride" chart-click="onClick">
+		</canvas>
+	</div>
+
+<ion-toggle style="background:#EEE8D6;border: 2px solid darkcyan;" ng-model="toggleSales.show" 
+ 	toggle-class="toggle-calm"><h3 style="display:inline"> <h3><span ng-if="toggleSales.show" >{{salesSelectedYear}}</span> Sales</h3> </ion-toggle>
+
+
+    <div class="music-sales" ng-if="toggleSales.show">
+    	<md-content style="float:left">
+			<ion-radio ng-model="chartSalesType" ng-value="'polarArea'">Polar Area Chart</ion-radio>
+			<ion-radio ng-model="chartSalesType" ng-value="'pie'">Pie Chart</ion-radio>
+    	</md-content>
+    	<div class="music-sales-dynamic-chart-container">
+		    <canvas style="margin:auto" id="base" class="chart-base" chart-type="chartSalesType"
+			  chart-data="salesData" chart-labels="musicTitle" >
+			</canvas>
+		</div>
+		<md-content style="display:inline-table">
+		<h3 style="width: 150px;">TOP 3</h3>
+	 <md-list ng-repeat="item in topSalesList | orderBy:'-sales'">
+	   <md-list-item  ng-if="$index < 3"><h5>{{$index+1}} : {{item.name}}</h3></md-list-item>
+	  </md-list>	
+	</md-content>
+		<div style="float:right;">
+	<select  ng-model="salesSelectedYear" ng-change="salesChangeYear(salesSelectedYear)" 
+    	data-ng-options="year as year for year in totalYears">
+		<option value="salesSelectedYear">Select Year</option>
+	</select>
+	</div> 
+ 	</div>
+
+	
+
+</ion-content> 
+</ion-view>

@@ -40,7 +40,7 @@ body {
 }
 
 .bar-positive, .tabs-positive>.tabs{
-	background-color: #417D9A !important;
+	background-color: #000000 !important;
 	border-color: #417D9A;
 }
 
@@ -64,4 +64,35 @@ body {
   color: #417D9A;
   font-size: 2rem;
   font-weight: 200;
+}
+.music-downloads{
+    width: 1000px;
+    height: 500px;
+    display:flex;
+    padding: 5px;
+}
+
+/*.music-downloads .{
+	clear:both;
+}*/
+.music-sales{
+	width: 1000px;
+    height: 500px;
+    display:flex;
+    padding: 5px;
+}
+.music-sales .music-sales-dynamic-chart-container{
+	/*margin: auto;*/
+    width: 500px;
+    height: 500px;
+    margin-left: 25%;
+    margin-right: 5%;
+    display: table;
+}
+
+.music-rates{
+	margin: auto;
+    width: auto;
+    max-width: 60%;
+    height: 500px;
 }
