@@ -1,8 +1,8 @@
 {
   "musics": [
     {
-      "name": "Bad And Boujee",
-      "artist": "Migos Featuring Lil Uzi Vert",
+      "name": "Shape Of You",
+      "artist": "Ed Sheeran",
       "genre": "Pop",
       "downloads": 
             {
@@ -48,9 +48,9 @@
             ]
           }
     },{
-      "name": "Shape Of You",
-      "artist": "Ed Sheeran",
-      "genre": "love",
+      "name": "Bad And Boujee",
+      "artist": "Migos Featuring Lil Uzi Vert",
+      "genre": "Hiphop",
       "downloads": 
             {
             "downloadsValue" : [
@@ -95,9 +95,9 @@
             ]
           }
     },{
-      "name": "Closer",
-      "artist": "The Chainsmokers Featuring Halsey",
-      "genre": "Comedy",
+      "name": "I Don't Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "Zayn / Taylor Swift",
+      "genre": "Pop",
       "downloads": 
             {
             "downloadsValue" : [
@@ -142,9 +142,9 @@
             ]
           }
     },{
-      "name": "icon",
-      "artist": "Artist",
-      "genre": "padugo",
+      "name": "Million Reasons",
+      "artist": "Lady Gaga",
+      "genre": "Pop",
       "downloads": 
             {
             "downloadsValue" : [
@@ -189,9 +189,9 @@
             ]
           }
     },{
-      "name": "icon",
-      "artist": "Artist",
-      "genre": "Comedy",
+      "name": "Bad Things",
+      "artist": "Machine Gun Kelly x Camila Cabello",
+      "genre": "Pop",
       "downloads": 
             {
             "downloadsValue" : [
@@ -236,8 +236,8 @@
             ]
           }
     },{
-      "name": "icon",
-      "artist": "Artist",
+      "name": "Bounce Back",
+      "artist": "Big Sean",
       "genre": "Pop",
       "downloads":
             {
@@ -283,8 +283,8 @@
             ]
           }
     }, {
-      "name": "icon",
-      "artist": "Artist",
+      "name": "Closer",
+      "artist": "The Chainsmokers Featuring Halsey",
       "genre": "Rock",
       "downloads":
             {
@@ -330,8 +330,8 @@
             ]
       }     
     },{
-      "name": "icon",
-      "artist": "Artist",
+      "name": "Scars To Your Beautiful",
+      "artist": "Alessia Cara",
       "genre": "Pop",
       "downloads":
             {
@@ -377,8 +377,8 @@
             ]
           }
     }, {
-      "name": "icon",
-      "artist": "Artist",
+      "name": "Don't Wanna Know",
+      "artist": "Maroon 5 Featuring Kendrick Lamar",
       "genre": "Pop",
       "downloads":
             {
@@ -424,8 +424,8 @@
             ]
           }
     }, {
-      "name": "icon",
-      "artist": "Artist",
+      "name": "Paris",
+      "artist": "The Chainsmokers",
       "genre": "Pop",
       "downloads":
             {
@@ -471,8 +471,8 @@
             ]
           }
     },{
-      "name": "icon",
-      "artist": "Artist",
+      "name": "Fake Love",
+      "artist": "Drake",
       "genre": "Pop",
       "downloads":
             {
@@ -518,8 +518,8 @@
             ]
           }
     }, {
-      "name": "icon",
-      "artist": "Artist",
+      "name": "Starboy ",
+      "artist": "The Weeknd Featuring Daft Punk",
       "genre": "Pop",
       "downloads":
             {
@@ -565,8 +565,8 @@
             ]
           }
     }, {
-      "name": "icon",
-      "artist": "Artist",
+      "name": "Love On The Brain",
+      "artist": "Rihanna",
       "genre": "Pop",
       "downloads":
             {
@@ -612,8 +612,8 @@
             ]
           }
     }, {
-      "name": "icon",
-      "artist": "Artist",
+      "name": "Black Beatles",
+      "artist": "Rae Sremmurd Featuring Gucci Mane",
       "genre": "Pop",
       "downloads":
             {
@@ -659,8 +659,8 @@
             ]
           }
     }, {
-      "name": "icon",
-      "artist": "Artist",
+      "name": "24K Magic",
+      "artist": "Bruno Mars",
       "genre": "Pop",
       "downloads":
             {
@@ -706,8 +706,8 @@
             ]
           }
     }, {
-      "name": "icon",
-      "artist": "Artist",
+      "name": "I Feel It Coming",
+      "artist": "The Weeknd Featuring Daft Punk",
       "genre": "Pop",
       "downloads":
             {
@@ -753,8 +753,8 @@
             ]
           }
     }, {
-      "name": "icon",
-      "artist": "Artist",
+      "name": "Caroline",
+      "artist": "Amine",
       "genre": "Pop",
       "downloads":
             {
@@ -799,9 +799,3863 @@
                  "4.5"
             ]
           }
-    }
+    }, {
+      "name": "Side To Side",
+      "artist": "Ariana Grande Featuring Nicki Minaj",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+    }, {
+      "name": "Mercy",
+      "artist": "Shawn Mendes",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+    }, {
+      "name": "Let Me Love You",
+      "artist": "DJ Snake Featuring Justin Bieber",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      },  {
+      "name": "Body Like A Back Road",
+      "artist": "Sam Hunt",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      }, {
+      "name": "No Favors",
+      "artist": "Big Sean Featuring Eminem",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      }, {
+      "name": "Rockabye",
+      "artist": "Clean Bandit Featuring Sean Paul & Anne-Marie",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      }, {
+      "name": "All Time Low",
+      "artist": "Jon Bellion",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      }, {
+      "name": "Can't Stop The Feeling!",
+      "artist": "Justin Timberlake",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      }, {
+      "name": "T-Shirt",
+      "artist": "Migos",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      }, {
+      "name": "Say You Won't Let Go",
+      "artist": "James Arthur",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      }, {
+      "name": "iSpy",
+      "artist": "KYLE Featuring Lil Yachty",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      }, {
+      "name": "Heathens",
+      "artist": "twenty one pilots",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      }, {
+      "name": "Water Under The Bridge",
+      "artist": "Adele",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      }, {
+      "name": "Down",
+      "artist": "Marian Hill",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      }, {
+      "name": "Cheap Thrills",
+      "artist": "Sia Featuring Sean Paul",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      }, {
+      "name": "This Town",
+      "artist": "Niall Horan",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      },  {
+      "name": "Starving",
+      "artist": "Hailee Steinfeld & Grey Featuring Zedd",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      },  {
+      "name": "Broccoli",
+      "artist": "D.R.A.M. Featuring Lil Yachty",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      },  {
+      "name": "Treat You Better",
+      "artist": "Shawn Mendes",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      },  {
+      "name": "That's What I Like",
+      "artist": "Bruno Mars",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      },  {
+      "name": "Moves",
+      "artist": "Big Sean",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      },  {
+      "name": "Congratulations",
+      "artist": "Post Malone Featuring Quavo",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      },  {
+      "name": "Better Man",
+      "artist": "Little Big Town",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      },  {
+      "name": "Issues",
+      "artist": "Julia Michaels",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      },  {
+      "name": "Juju On That Beat (TZ Anthem)",
+      "artist": "Zay Hilfigerrr & Zayion McCall",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      },  {
+      "name": "Believer",
+      "artist": "Imagine Dragons",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      },  {
+      "name": "Don't Let Me Down",
+      "artist": "The Chainsmokers Featuring Daya",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      },  {
+      "name": "Love Me Now",
+      "artist": "John Legend",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      },  {
+      "name": "Dirt On My Boots",
+      "artist": "Jon Pardi",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+          }
+      },  {
+      "name": "Make Me (Cry)",
+      "artist": "Noah Cyrus Featuring Labrinth",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Party",
+      "artist": "Chris Brown Featuring Usher & Gucci Mane",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "The Greatest",
+      "artist": "Sia Featuring Kendrick Lamar",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Bad Romance",
+      "artist": "Lady Gaga",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Deja Vu",
+      "artist": "J. Cole",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Location",
+      "artist": "Khalid",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Both",
+      "artist": "Gucci Mane Featuring Drake",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "HandClap",
+      "artist": "Fitz And The Tantrums",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Seein' Red",
+      "artist": "Dustin Lynch",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "I Got You",
+      "artist": "Bebe Rexha",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Used To This",
+      "artist": "Future Featuring Drake",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Star Of The Show",
+      "artist": "Thomas Rhett",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Play That Song",
+      "artist": "Train",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Party Monster",
+      "artist": "The Weeknd",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Despacito",
+      "artist": "Luis Fonsi Featuring Daddy Yankee",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Castle On The Hill",
+      "artist": "Ed Sheeran",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Think A Little Less",
+      "artist": "Michael Ray",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "A Guy With A Girl",
+      "artist": "Blake Shelton",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Goosebumps",
+      "artist": "Travis Scott",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Sober Saturday Night",
+      "artist": "Chris Young Featuring Vince Gill",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Chantaje",
+      "artist": "Shakira Featuring Maluma",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "My Old Man",
+      "artist": "Zac Brown Band",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Guys My Age",
+      "artist": "Hey Violet",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Sacrifices",
+      "artist": "Big Sean Featuring Migos",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Way Down We Go",
+      "artist": "Kaleo",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Call On Me",
+      "artist": "Starley",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Slippery",
+      "artist": "Migos Featuring Gucci Mane",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Halfway Off The Balcony",
+      "artist": "Big Sean",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Today",
+      "artist": "Brad Paisley",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Jump Out The Window",
+      "artist": "Big Sean",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Swang",
+      "artist": "Rae Sremmurd",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Kill A Word",
+      "artist": "artist",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "The Weekend",
+      "artist": "Brantley Gilbert",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Fast",
+      "artist": "Luke Bryan",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "No Heart",
+      "artist": "21 Savage & Metro Boomin",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Not Nice",
+      "artist": "PARTYNEXTDOOR",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "How Far I'll Go",
+      "artist": "Alessia Cara",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Any Ol' Barstool",
+      "artist": "ason Aldean",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Selfish",
+      "artist": "PnB Rock",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Owe Me",
+      "artist": "Big Sean",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Beauty And The Beastt",
+      "artist": "Ariana Grande & John Legend",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },   {
+      "name": "I Don't",
+      "artist": "Mariah Carey Featuring YG",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Road Less Traveled",
+      "artist": "Lauren Alaina",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "80s Mercedes",
+      "artist": "Maren Morris",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "How Far I'll Go",
+      "artist": "Auli'i Cravalho",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Now & Later",
+      "artist": "Sage The Gemini",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },   {
+      "name": "In Case You Didn't Know",
+      "artist": "Brett Young",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Look At Me!",
+      "artist": "XXXTENTACION",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "OTW",
+      "artist": "DJ Luke Nasty",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Light",
+      "artist": "Big Sean Featuring Jeremih",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Redbone",
+      "artist": "Childish Gambino",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Some Kind Of Drug",
+      "artist": "G-Eazy Featuring Marc E. Bassy",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      },  {
+      "name": "Kelly Price",
+      "artist": "Migos Featuring Travis Scott",
+      "genre": "Pop",
+      "downloads":
+            {
+            "downloadsValue" : [
+                 8969319,
+                 7872163,
+                 7321872,
+                 8321370,
+                 8324920
+            ]
+          }
+      ,
+      "views":
+            {
+            "viewsVal" : [
+                 8382639,
+                 8767823,
+                 8234213,
+                 8533291,
+                 8132871
+            ]
+          }
+      ,
+      "sales":
+            {
+            "salesValue" : [
+                 6910321,
+                 7732011,
+                 6090120,
+                 6133902,
+                 7211023
+            ]
+          }
+      ,
+      "rates": 
+           {
+            "ratesValue" : [
+                 "4.1",
+                 "4.4",
+                 "4.4",
+                 "4.6",
+                 "4.5"
+            ]
+         }
+      }
   
-
+  
 
   ]
 }
